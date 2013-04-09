@@ -1,0 +1,532 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"date",
+				"date_match"
+			],
+			[
+				"process",
+				"processed"
+			],
+			[
+				"mat",
+				"match_saved"
+			],
+			[
+				"match",
+				"match_saved"
+			],
+			[
+				"da",
+				"day_match"
+			],
+			[
+				"month",
+				"month_match"
+			],
+			[
+				"year",
+				"year_match"
+			],
+			[
+				"gol",
+				"gol_away"
+			],
+			[
+				"away",
+				"away_str"
+			],
+			[
+				"league",
+				"league_string"
+			],
+			[
+				"cho",
+				"chomp"
+			],
+			[
+				"leag",
+				"league_string"
+			],
+			[
+				"parse",
+				"parse_date"
+			],
+			[
+				"DATE",
+				"DateTime"
+			],
+			[
+				"to",
+				"to_datetime"
+			],
+			[
+				"string",
+				"string_date"
+			],
+			[
+				"Date",
+				"DateTime"
+			],
+			[
+				"stri",
+				"string_date"
+			],
+			[
+				"par",
+				"parse"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"packge",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package contra",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Add Channel"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/matteo/Dropbox/myRuby/betstats/test/test_data_migrate.rb",
+		"/Users/matteo/Dropbox/myRuby/betstats/.gitignore",
+		"/Users/matteo/Dropbox/myRuby/betstats/log/dm.log",
+		"/Users/matteo/Dropbox/myRuby/betstats/lib/utils.rb",
+		"/Users/matteo/Dropbox/myRuby/betstats/test/test_utils.rb",
+		"/Users/matteo/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/matteo/Dropbox/myRuby/betstats/betstats.sublime-project",
+		"/Users/matteo/Dropbox/myRuby/betstats/test/results.html",
+		"/Users/matteo/Dropbox/myRuby/betstats/betstats.sublime-workspace",
+		"/Users/matteo/Dropbox/myRuby/betstats/test/ts_suite.rb",
+		"/Users/matteo/Dropbox/myRuby/betstats/lib/model.rb",
+		"/C/Users/matteo.borgnolo/Dropbox/myRuby/betstats/test/test_utils.rb",
+		"/C/Users/matteo.borgnolo/Dropbox/myRuby/betstats/test/test_data_migrate.rb",
+		"/C/Users/matteo.borgnolo/Dropbox/myRuby/betstats/lib/utils.rb",
+		"/C/Users/matteo.borgnolo/Dropbox/myRuby/betstats/lib/fetch_results.rb",
+		"/C/Users/matteo.borgnolo/Dropbox/myRuby/betstats/notes.txt",
+		"/C/Users/matteo.borgnolo/Dropbox/myRuby/betstats/test/test.html",
+		"/C/Program Files/Cobian Backup 11/Logs/log 2013-02-20.txt",
+		"/C/Program Files/Cobian Backup 11/Logs/log 2013-02-19.txt",
+		"/C/Users/matteo.borgnolo/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/matteo.borgnolo/AppData/Roaming/Sublime Text 2/Packages/Arnold Clark Snippets for Ruby/README.md",
+		"/C/Users/matteo.borgnolo/Dropbox/myRuby/betstats/betstats.sublime-workspace",
+		"/C/Users/matteo.borgnolo/Dropbox/myRuby/GateRay/gateray.sublime-project",
+		"/C/Users/matteo.borgnolo/Dropbox/myRuby/betstats/betstats.sublime-project",
+		"/Users/matteo/Dropbox/myruby/jruby/lel_example.rb",
+		"/Users/matteo/Downloads/mingle_12_4_2/vendor/production_bundler_gem_home/gems/httparty-0.7.8/spec/fixtures/ssl/generated/server.key",
+		"/Users/matteo/Downloads/mingle_12_4_2/vendor/gems/jruby-openssl-0.7.6.1/test/fixture/imaps/server.key",
+		"/Users/matteo/Downloads/mingle_12_4_2/Mingle",
+		"/Users/matteo/Downloads/mingle_12_4_2/config/jetty.xml",
+		"/Users/matteo/Dropbox/myruby/jruby/example2.rb",
+		"/Users/matteo/Downloads/mingle_12_4_2/lib/acts_as_attachable.rb",
+		"/Users/matteo/Downloads/mingle_12_4_2/vendor/production_bundler_gem_home/gems/jvyaml-0.0.1/lib/jvyaml.rb",
+		"/Users/matteo/Downloads/mingle_12_4_2/MingleServer",
+		"/Users/matteo/Downloads/mingle_12_4_2/config.rb",
+		"/Users/matteo/Downloads/mingle_12_4_2/app/publishers/aggregate_publisher.rb",
+		"/Users/matteo/Dropbox/myRuby/betstats/lib/data_migrate.rb",
+		"/Users/matteo/Dropbox/myRuby/flp/falconscoringadapter_20121204085243.log",
+		"/Users/matteo/Dropbox/myRuby/betstats/lib/fetch_results.rb",
+		"/Users/matteo/Dropbox/myRuby/betstats/Gemfile",
+		"/Users/matteo/Library/Application Support/Sublime Text 2/Packages/Theme - Default/Widget.sublime-settings",
+		"/Users/matteo/Library/Application Support/Sublime Text 2/Packages/Ruby/Ruby.sublime-build",
+		"/Users/matteo/Dropbox/myRuby/betstats/test/test_fetch_old_results.rb",
+		"/Users/matteo/Dropbox/myRuby/betstats/features/load_csv_results_file.feature",
+		"/Users/matteo/.MacOSX/environment.plist",
+		"/Users/matteo/Dropbox/myRuby/betstats/Rakefile",
+		"/Users/matteo/Dropbox/myRuby/betstats/notes.txt",
+		"/Users/matteo/Dropbox/myRuby/betstats/log/test_results.log",
+		"/Users/matteo/Dropbox/myRuby/betstats/lib/calc_statistics.rb",
+		"/Users/matteo/Dropbox/myRuby/betstats/features/step_definitions/load_csv.rb",
+		"/Users/matteo/Dropbox/myRuby/betstats/webapp/web_odds.rb",
+		"/Users/matteo/Dropbox/myRuby/betstats/webapp/views/league.haml",
+		"/Users/matteo/Dropbox/myRuby/betstats/webapp/views/layout.haml",
+		"/Users/matteo/Dropbox/myRuby/betstats/webapp/views/style.sass",
+		"/Users/matteo/Dropbox/myRuby/betstats/webapp/views/resultfiles.haml",
+		"/Users/matteo/Dropbox/myRuby/betstats/webapp/views/team.haml",
+		"/Users/matteo/Dropbox/myRuby/betstats/lib/data_upgrade.rb",
+		"/Users/matteo/Dropbox/myRuby/betstats/webapp/includes.rb",
+		"/Users/matteo/Dropbox/myRuby/betstats/results/seriea_2007-2008.csv",
+		"/Users/matteo/Dropbox/myRuby/betstats/results/seriea_2011_2012.csv",
+		"/Volumes/Microsoft Office for Mac Home and Business 2011 v14.1.3/Installation Instructions.webloc",
+		"/Users/matteo/Library/Application Support/Smart Converter Pro/Smart Converter Pro.log",
+		"/Users/matteo/Dropbox/myRuby/betstats/test/  => 204",
+		"/Users/matteo/Dropbox/myRuby/betstats/test/     137",
+		"/Users/matteo/Dropbox/myRuby/betstats/test/  => 138",
+		"/Users/matteo/Dropbox/myRuby/betstats/test/  => 203",
+		"/Users/matteo/.rvm/gems/ruby-1.9.2-p320/gems/dm-validations-1.2.0/lib/dm-validations.rb",
+		"/Users/matteo/.rvm/rubies/ruby-1.9.2-p320/lib/ruby/1.9.1/date.rb",
+		"/Users/matteo/Dropbox/myRuby/betstats/log/league_results.log.20100814",
+		"/Users/matteo/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/matteo/Dropbox/myRuby/betstats/lib/fetch_old_results.rb",
+		"/Users/matteo/Dropbox/myRuby/betstats/results/csv/seriea_2011_2012.csv",
+		"/Users/matteo/Dropbox/myRuby/betstats/files/notes.txt",
+		"/Users/matteo/Dropbox/myRuby/couchdb_test/lib/couchdb_test.rb",
+		"/Users/matteo/Dropbox/myRuby/Joker/lib/Joker.rb",
+		"/Users/matteo/Desktop/03_33_30_13/db/scripts/oracle/install/owsowner/acnt_api_b.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/change/03_31/cards/schema/create_table.sql",
+		"/Users/matteo/Desktop/03_33_30_13/models/cards/mn/db/scripts/oracle/owsowner/gen/install/creTbl.sql",
+		"/Users/matteo/Dropbox/myRuby/Joker/Gemfile",
+		"/Users/matteo/Dropbox/myRuby/Joker/Joker_2011.xls",
+		"/Users/matteo/Dropbox/myRuby/mystore/Gemfile",
+		"/Users/matteo/Dropbox/myRuby/mystore/app/controllers/application_controller.rb",
+		"/Users/matteo/Dropbox/myRuby/mystore/Gemfile.lock",
+		"/Users/matteo/Dropbox/myRuby/mystore/spree.sublime-workspace",
+		"/Users/matteo/Dropbox/myRuby/mystore/spree.sublime-project",
+		"/Users/matteo/Desktop/03_33_30_13/install/mainschema/install.ssp",
+		"/Users/matteo/Desktop/03_33_30_13/modules/iss_cards/schema/create_plsql.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/mn_cards/schema/create_table.sql",
+		"/Users/matteo/Downloads/seam-3-1.1.0.Final/examples/examples.txt",
+		"/Users/matteo/Desktop/03_33_30_13/client/shared/pipes/VISA BASEII Inward Processing.cpp",
+		"/Users/matteo/Downloads/jboss-as-7.1.1.Final/README.txt",
+		"/Users/matteo/Downloads/jboss-as-7.1.1.Final/standalone/deployments/README.txt",
+		"/Users/matteo/Desktop/03_33_30_13/client/shared/pipes/VISA BASEII Generic Inward Processing.hpp",
+		"/Users/matteo/Desktop/03_33_30_13/modules/pm_cards/schema/create_table.sql",
+		"/Users/matteo/Desktop/03_33_30_13/db/scripts/oracle/install/owsowner/api_b.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/pm_cards/schema/create_plsql.sql",
+		"/Users/matteo/Desktop/03_33_30_13/client/way4manager/components/dbm.module/dataform/PM Task OUT.dataform.xml",
+		"/Users/matteo/Desktop/03_33_30_13/client/way4manager/components/dbm.module/domain/_Code.domain.xml",
+		"/Users/matteo/Desktop/03_33_30_13/manuals/system/ows_FRSSetup.html",
+		"/Users/matteo/Desktop/03_33_30_13/db/scripts/oracle/install/owsowner/acf_b.sql",
+		"/Users/matteo/Desktop/03_33_30_13/db/maintenance/oracle/encryption/cards/encrypt_tables.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/iss_cards/schema/create_view.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/hsk_kernel/schema/create_table.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/iss_cards/schema/create_table.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/acq_cards/schema/create_table.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/product_cards/schema/create_table.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/mp_cards/schema/create_table.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/synch_kernel/schema/create_table.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/standin_cards/schema/create_table.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/w4m_kernel/schema/create_table.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/appl_cards/schema/create_table.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/sy_kernel/schema/create_table.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/change/03_32/kernel/schema/create_table.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/change/03_28/kerneldb/schema/create_table.sql",
+		"/Users/matteo/Desktop/03_33_30_13/db_migration/oracle/replicate/rpl_setup/propagator/rplpropagator/install.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/change/03_32_99_15/cards/schema/create_table.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/tvf_kernel/schema/create_table.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/change/03_33_30_12.1/cards/smanual/update_new_column.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/mpe_cards/schema/create_table.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/ver_kernel/schema/create_table.sql",
+		"/Users/matteo/Desktop/03_33_30_13/modules/all/sublist.ssp",
+		"/Users/matteo/Desktop/03_33_30_13/install/etc/modellist.ssp",
+		"/Users/matteo/Desktop/03_33_30_13/modules/all/create_table.ssp",
+		"/Users/matteo/Desktop/03_33_30_13/filelist.txt",
+		"/Users/matteo/Desktop/03_33_30_13/install/etc/model.lst",
+		"/Users/matteo/Desktop/03_33_30_13/modules/all/do.ssp",
+		"/Users/matteo/Desktop/03_33_30_13/db/scripts/oracle/archive_db/arc/owsowner/install/install.ssp",
+		"/Users/matteo/Desktop/03_33_30_13/db/scripts/oracle/install/owsowner/appl_s.sql",
+		"/Users/matteo/Desktop/03_33_30_13/install/mainschema/etc/initowner.ssp"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>,-*.html,-*.js,*.rb",
+			"<open folders>,-*.html,-*.js",
+			"<open folders>,-*.html",
+			"<open folders>",
+			"/Users/matteo/Desktop/03_33_30_13/,*.sql",
+			"/Users/matteo/Desktop/03_33_30_13/",
+			"/Users/matteo/Desktop/03_33_30_13/*.sql",
+			"/Users/matteo/Desktop/03_33_30_13/*sql",
+			"/Users/matteo/Desktop/03_33_30_13",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"valid?",
+			"error",
+			"@@log",
+			"mac",
+			"datamapper",
+			"giulia",
+			"define_teams",
+			"define_match_with_teams",
+			"log",
+			"parse_date",
+			"define_match_with_teams",
+			"start",
+			"start\nstrat",
+			"LEague",
+			"league",
+			"find_existing_match",
+			"parse_date",
+			"find_existing_match",
+			"define_match",
+			"define_league",
+			"define_match",
+			"td[2].content",
+			"td[2]",
+			"td[2].content",
+			"parse_date",
+			"define_match",
+			"parse_date",
+			"10/17/2010",
+			"check_teams",
+			"mp4 to itunes",
+			"parse_date",
+			"define_match",
+			"DateTime",
+			"parse_date",
+			"Atalanta,Roma",
+			"webapp",
+			"validates_is_unique",
+			"validates_uniqueness_of",
+			"validates",
+			"\n",
+			"validates_is_unique",
+			"define_match",
+			"parse_date",
+			"\nparse_date",
+			"find_existing_match",
+			"calc_result",
+			"parse_result",
+			"define_result_file",
+			"fetch_result",
+			"font",
+			"$:.",
+			"acnt_contract",
+			"create table",
+			"CARD_TRACK_1",
+			"YTCARD_INFO",
+			"YTCARD_INFO('S'",
+			"procedure YTCARD_INFO",
+			"YTCARD_INFO",
+			"procedure YSCARD_INFO",
+			"YSCARD_INFO",
+			"Y.CARD",
+			"Y.ACNT_CONTRACT",
+			"Y*ACNT_CONTRACT",
+			"WALLET",
+			"ENCRYPTION_WALLET",
+			"$(encrypt)",
+			"encrypt",
+			"DBMS_CRYPTO",
+			"CARD_TRACK_1",
+			"create table ACNT_CONTRACT",
+			"ACNT_CONTRACT",
+			"@lcond",
+			"ACNT_CONTRACT",
+			"create_table",
+			"feev",
+			"Doro",
+			"Yatskaer",
+			"I107124486",
+			"START_OPERATION",
+			"doca",
+			"ID005123188"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"validates_uniqueness_of"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 288.0
+	},
+	"output.sftp":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"lib/utils.rb"
+			],
+			[
+				"testdata",
+				"test/test_data_migrate.rb"
+			],
+			[
+				"utils.r",
+				"lib/utils.rb"
+			],
+			[
+				"testutil",
+				"test/test_utils.rb"
+			],
+			[
+				"model",
+				"lib/model.rb"
+			],
+			[
+				"test_u",
+				"test/test_utils.rb"
+			],
+			[
+				"utils.rb",
+				"lib/utils.rb"
+			],
+			[
+				"test_utils",
+				"test/test_utils.rb"
+			],
+			[
+				"resut",
+				"lib/fetch_results.rb"
+			],
+			[
+				"data",
+				"lib/data_migrate.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/matteo/Dropbox/myRuby/datamapper/datamapper.sublime-project"
+			],
+			[
+				"falcon",
+				"/C/Users/matteo.borgnolo/Documents/OpenWay/Projects/UBS/Implementation/Interfaces/Falcon/falcon.sublime-project"
+			],
+			[
+				"0335",
+				"/C/Users/matteo.borgnolo/Documents/sublime projects/03_35_30_29.sublime-project"
+			],
+			[
+				"ruby",
+				"/C/Users/matteo.borgnolo/Dropbox/myRuby/GateRay/gateray.sublime-project"
+			],
+			[
+				"betsats",
+				"/C/Users/matteo.borgnolo/Dropbox/myRuby/betstats/betstats.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true
+}
