@@ -83,6 +83,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 378,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1838,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/Ruby/Ruby.sublime-build",
 	"command_palette":
@@ -144,6 +160,11 @@
 	},
 	"file_history":
 	[
+		"/Users/matteo/Library/Application Support/Sublime Text 2/Packages/Shell Turtlestein/Shell Turtlestein.sublime-settings",
+		"/Users/matteo/Library/Application Support/Sublime Text 2/Packages/Shell Turtlestein/README.md",
+		"/Users/matteo/Library/Application Support/Sublime Text 2/Packages/Shell Turtlestein/shell_turtlestein.py",
+		"/Users/matteo/Library/Application Support/Tunnelblick/Configurations/ow-spb.ovpn",
+		"/Users/matteo/Library/Application Support/Tunnelblick/Configurations/owg-cy.ovpn",
 		"/Users/matteo/Dropbox/myRuby/betstats/test/test_data_migrate.rb",
 		"/Users/matteo/Dropbox/myRuby/betstats/.gitignore",
 		"/Users/matteo/Dropbox/myRuby/betstats/log/dm.log",
@@ -266,12 +287,7 @@
 		"/Users/matteo/Desktop/03_33_30_13/modules/all/sublist.ssp",
 		"/Users/matteo/Desktop/03_33_30_13/install/etc/modellist.ssp",
 		"/Users/matteo/Desktop/03_33_30_13/modules/all/create_table.ssp",
-		"/Users/matteo/Desktop/03_33_30_13/filelist.txt",
-		"/Users/matteo/Desktop/03_33_30_13/install/etc/model.lst",
-		"/Users/matteo/Desktop/03_33_30_13/modules/all/do.ssp",
-		"/Users/matteo/Desktop/03_33_30_13/db/scripts/oracle/archive_db/arc/owsowner/install/install.ssp",
-		"/Users/matteo/Desktop/03_33_30_13/db/scripts/oracle/install/owsowner/appl_s.sql",
-		"/Users/matteo/Desktop/03_33_30_13/install/mainschema/etc/initowner.ssp"
+		"/Users/matteo/Desktop/03_33_30_13/filelist.txt"
 	],
 	"find":
 	{
@@ -398,8 +414,63 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								378,
+								378
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 1838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -452,6 +523,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"routes.",
+				"config/routes.rb"
+			],
 			[
 				"",
 				"lib/utils.rb"
